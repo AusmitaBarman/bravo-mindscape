@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Bravo/Bravo Start.unity
+    guid: c228de213a90144e1bedf270ffef1f51
+  - enabled: 1
+    path: Assets/Scenes/Bravo/Bravo Main.unity
+    guid: 9aa212a856b9d421c8dcb43f78d945b7
+  - enabled: 1
+    path: Assets/Scenes/Bravo/Bravo End.unity
+    guid: b4fbea0cac98e4809a3d077907892639
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 1f10542ee710146e3a8a804cdd1e9fcc, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0ac27ea23672749239f3004b7123a44d, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 66ef3e84538054a57b0c82c60b3033b8, type: 2}
+  m_UseUCBPForAssetBundles: 0
